@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86f7f8f19db1e464fa46cb3696b0e96a
-      internalID: 1356546211
+      spriteID: ca80451f68c473345a468ab19ce91d32
+      internalID: -607519966
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62f2eedabb1fae84b96419b18a3417df
-      internalID: 855610474
+      spriteID: 58a1a74eaa3496a4bb261f8354d33bdb
+      internalID: 1635784833
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd505a34deccc894fbafdbd2ada99862
-      internalID: 1741392016
+      spriteID: 8816de556bd1882498fbad89440c241f
+      internalID: 1232543431
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7566213c6a69af47aa915a1ae59e4ac
-      internalID: 1424977031
+      spriteID: a9d83d45f415f4847888eb72db822d27
+      internalID: -253831589
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BlackGoonIdle_0: 1356546211
-      BlackGoonIdle_1: 855610474
-      BlackGoonIdle_2: 1741392016
-      BlackGoonIdle_3: 1424977031
+      BlackGoonIdle_0: -607519966
+      BlackGoonIdle_1: 1635784833
+      BlackGoonIdle_2: 1232543431
+      BlackGoonIdle_3: -253831589
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

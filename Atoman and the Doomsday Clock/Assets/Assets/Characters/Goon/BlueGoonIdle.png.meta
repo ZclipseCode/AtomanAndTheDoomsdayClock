@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf0d811ed43e6d54d990189c1a4ae204
-      internalID: -1882938038
+      spriteID: 6a21aee60b6f60748be60cb1a16ae93c
+      internalID: 1244633852
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c867b7e582d5a440af6bd6dfa9a2793
-      internalID: -1172513237
+      spriteID: 0c72653271e26ba4a8dc117ab50c5118
+      internalID: 726808246
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e21b14851a2f819499b5bb99ec6b0d68
-      internalID: 658417316
+      spriteID: aa36844fdf671df448617dbc2d2cc1db
+      internalID: 1876829369
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 335145a5ef9d58f428306fd32e217f0f
-      internalID: 802694281
+      spriteID: 086ded3b5e1bf924186de7303cba6fa6
+      internalID: 568318819
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BlueGoonIdle_0: -1882938038
-      BlueGoonIdle_1: -1172513237
-      BlueGoonIdle_2: 658417316
-      BlueGoonIdle_3: 802694281
+      BlueGoonIdle_0: 1244633852
+      BlueGoonIdle_1: 726808246
+      BlueGoonIdle_2: 1876829369
+      BlueGoonIdle_3: 568318819
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

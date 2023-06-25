@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 331a5f24542cf874fa2c94d2374a224b
-      internalID: -278254286
+      spriteID: 0c0737818ae5a0c47a11ec39a14d8592
+      internalID: -86364231
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4492f61585697b940929f7e2af27019b
-      internalID: 1472782918
+      spriteID: b10e0a75ec18ad54ea1a09cf25a937bf
+      internalID: 717170053
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9acf910ec294d3748bfab7265b2b903c
-      internalID: 1636645900
+      spriteID: ed63f35decc2ebe46ba8f03814979b72
+      internalID: 1025375879
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27623b735ca031488450759244c2f12
-      internalID: -827445194
+      spriteID: 4cf04a1722d9ad44197443e995597f2d
+      internalID: -844096806
       vertices: []
       indices: 
       edges: []
@@ -211,10 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PurpleGoonIdle_0: -278254286
-      PurpleGoonIdle_1: 1472782918
-      PurpleGoonIdle_2: 1636645900
-      PurpleGoonIdle_3: -827445194
+      PurpleGoonIdle_0: -86364231
+      PurpleGoonIdle_1: 717170053
+      PurpleGoonIdle_2: 1025375879
+      PurpleGoonIdle_3: -844096806
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
