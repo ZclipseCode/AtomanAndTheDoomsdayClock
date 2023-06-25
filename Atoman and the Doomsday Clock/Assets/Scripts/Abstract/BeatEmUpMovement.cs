@@ -28,4 +28,9 @@ public abstract class BeatEmUpMovement : MonoBehaviour
     {
         movement = Vector2.zero;
     }
+
+    public Vector2 GetMovementVector2()
+    {
+        return movement;
+    }
 }
